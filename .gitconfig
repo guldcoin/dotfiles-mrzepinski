@@ -1,0 +1,11 @@
+[user]
+	username = mrzepinski
+	name = Maciej Rzepiński
+	location = Gdansk, Poland
+	website = http://mrzepinski.pl
+[commit]
+	gpgsign = true
+[aliases]
+	github = mrzepinski
+	npm = mrzepinski
+	twitter = mrzepinski
